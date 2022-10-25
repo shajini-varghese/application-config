@@ -1,5 +1,4 @@
-healthcare_server:
-    qa:
+healthcare_server_qa:
         spring:
             jpa:
                 hibernate:

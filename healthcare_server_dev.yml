@@ -1,3 +1,2 @@
-healthcare_server:
-    dev:
+healthcare_server_dev:
         maximum: 300
