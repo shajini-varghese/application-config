@@ -1,0 +1,3 @@
+application:
+    dev:
+        maximum: 200
